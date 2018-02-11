@@ -32,13 +32,13 @@ This means I expect certain attributes like completeness, potential, licensing (
 
 - C
   - [Nuklear](https://github.com/vurtun/nuklear) - A single-header ANSI C gui library
-- Go
-  - [clui](https://github.com/VladimirMarkelov/clui) - Command Line User Interface (Console UI inspired by TurboVision)
-  - [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go
 
 ### Text-mode UI, terminal
 
 - C++
   - [finalcut](https://github.com/gansm/finalcut) - A text-based widget toolkit.
+- Go
+  - [clui](https://github.com/VladimirMarkelov/clui) - Command Line User Interface (Console UI inspired by TurboVision)
+  - [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go
 - Java
   - [jexer](https://github.com/klamonte/jexer) - Java Text User Interface, inspired by TurboVision. Impressive. No trillion dependencies, even builds with ant.
