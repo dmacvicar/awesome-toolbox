@@ -3,6 +3,10 @@
 
 The following is a list of development tools I either use, or I am keeping an eye on.
 
+Unlike most "awesome-foo" lists, this is not a list of every library available for a certain platform you can find on Github, but rather a small list of the ones I use or I would pick if starting a new project.
+
+This means I expect certain attributes like completeness, potential, licensing (eg. avoid GPL'ed libraries, prefer MIT/BSD, then LGPL), documentation, examples, ability to build and package, etc.
+
 ## Configuration
 
 - C
