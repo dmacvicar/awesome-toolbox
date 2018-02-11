@@ -31,3 +31,8 @@ The following is a list of development tools I either use, or I am keeping an ey
 - Go
   - [clui](https://github.com/VladimirMarkelov/clui) - Command Line User Interface (Console UI inspired by TurboVision)
   - [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go
+
+### Text-mode UI, terminal
+
+- Java
+  - [jexer](https://github.com/klamonte/jexer) - Java Text User Interface, inspired by TurboVision. Impressive. No trillion dependencies, even builds with ant.
