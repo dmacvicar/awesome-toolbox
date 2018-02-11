@@ -34,5 +34,7 @@ The following is a list of development tools I either use, or I am keeping an ey
 
 ### Text-mode UI, terminal
 
+- C++
+  - [finalcut](https://github.com/gansm/finalcut) - A text-based widget toolkit.
 - Java
   - [jexer](https://github.com/klamonte/jexer) - Java Text User Interface, inspired by TurboVision. Impressive. No trillion dependencies, even builds with ant.
